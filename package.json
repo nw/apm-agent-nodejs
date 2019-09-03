@@ -129,7 +129,7 @@
     "get-port": "^4.0.0",
     "got": "^9.2.2",
     "graphql": "^14.4.2",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.2.0",
     "hapi": "^18.1.0",
     "https-pem": "^2.0.0",
     "inquirer": "^0.12.0",
